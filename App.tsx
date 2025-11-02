@@ -2,7 +2,6 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { User, Tab, Creation } from './types';
 
-import Login from './components/Login';
 import ApiKeyPrompt from './components/ApiKeyPrompt';
 import TextToImage from './components/TextToImage';
 import ImageToImage from './components/ImageToImage';
